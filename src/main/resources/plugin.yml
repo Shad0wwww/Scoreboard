@@ -1,0 +1,4 @@
+name: Scoreboard
+main: dk.shadow.ScoreBoard
+api-version: 1.8
+version: '${project.version}'
